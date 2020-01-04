@@ -2,8 +2,8 @@ Sensores
 ----------------------------------------------------------------
 Flame sensor 1.1 D5
 Temperature and humidity 1.2 D16
-Gas sensor 1.5 
-Led Socket kit 1.5
+Gas sensor 1.5 A0
+Led Socket kit 1.5 D18
 ----------------------------------------------------------------
 Flame sensor 1.1 D5
 codigo:
